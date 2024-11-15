@@ -1,5 +1,5 @@
 # InstaChecker
-## How to use:
+## How to use: (!! OUTDATED !!) sry :(
 Im Browser (Feuerfurz) anmelden 
 - Auf Follower gehen
 - Ganz nach unten scrollen bis es nicht mehr weiter geht (use Mittlere Maustaste to be fast)
@@ -11,4 +11,4 @@ Im Browser (Feuerfurz) anmelden
 - Rechte Maustaste speichern unter...
 - speichern als abos.htm unter Bilder (z.B.: "C:\Users\Max\Pictures\abos.htm")
 
-Programm ausführen
+Programm ausfÃ¼hren
