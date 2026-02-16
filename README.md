@@ -9,6 +9,6 @@ Im Browser (Feuerfurz) anmelden
 - Auf Abos gehen
 - Ganz nach unten scrollen bis es nicht mehr weiter geht (use Mittlere Maustaste to be fast as..)
 - Rechte Maustaste speichern unter...
-- speichern als abos.htm unter Bilder (z.B.: "C:\Users\Max\Pictures\abos.htm")
+- speichern als abos.htm unter Bilder (z.B.: "C:\Users\Daniel\Pictures\abos.htm")
 
 Programm ausführen
